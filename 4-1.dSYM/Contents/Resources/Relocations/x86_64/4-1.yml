@@ -1,6 +1,6 @@
 ---
 triple:          'x86_64-apple-darwin'
-binary-path:     "/Users/ziyizhu/Documents/code/c++测试/helloworld/4-1"
+binary-path:     "/Users/ziyizhu/Documents/code/c++测试/Qinghuac++/4-1"
 relocations:
   - { offsetInCU: 0x2F62, offset: 0x2F62, size: 0x8, addend: 0x0, symName: __ZNSt3__124__put_character_sequenceB8ue170006IcNS_11char_traitsIcEEEERNS_13basic_ostreamIT_T0_EES7_PKS4_m, symObjAddr: 0x250, symBinAddr: 0x1000013E0, symSize: 0x1F0 }
   - { offsetInCU: 0x48C8, offset: 0x48C8, size: 0x8, addend: 0x0, symName: __ZNSt3__1lsB8ue170006INS_11char_traitsIcEEEERNS_13basic_ostreamIcT_EES6_PKc, symObjAddr: 0x1A0, symBinAddr: 0x100001330, symSize: 0x40 }
