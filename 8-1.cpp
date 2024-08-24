@@ -21,7 +21,6 @@ public:
 
     void display() const; //输出复数
 
-
 };
 
 
